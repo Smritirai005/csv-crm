@@ -15,6 +15,9 @@ instead of relying on fixed column names, the ai understands different headers l
 - validates ai output before returning results
 - shows imported and skipped records
 - responsive ui
+- ## live demo
+- frontend: https://csv-crm-1.onrender.com
+- backend api: https://csv-crm.onrender.com
 
 ## tech stack
 
